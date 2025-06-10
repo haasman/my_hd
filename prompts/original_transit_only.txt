@@ -1,0 +1,29 @@
+
+MANDATORY: You MUST search the web first to get current planetary transit positions and aspects for today's date before analyzing anything.
+Using my Human Design chart information:
+{{5.text}}
+
+REQUIRED STEPS:
+
+Search online for today's current planetary transits, positions, and major aspects
+Cross-reference these transits with my Human Design chart
+Analyze how today's planetary movements specifically impact my design
+
+LOCATION & TIMEZONE:
+Clearwater, Florida, USA (Eastern Time Zone)
+Current date: {{now}}
+RESPONSE FORMAT (under 2,000 characters for Telegram):
+🔮 TODAY'S KEY INFLUENCES:
+
+[Major transit impact 1]
+[Major transit impact 2]
+[Major transit impact 3]
+
+⚡ HOW TO USE THIS ENERGY:
+
+[Practical tip 1]
+[Practical tip 2]
+
+📍 PERSONAL IMPACT:
+[Brief explanation of how these transits specifically affect me based on my chart - NO mention of gates, channels, or centers - just practical life effects]
+CRITICAL: Always get fresh transit data online. Do not use cached or general information. Search for current planetary positions and aspects before creating this reading.

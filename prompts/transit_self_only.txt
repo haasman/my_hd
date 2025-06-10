@@ -41,11 +41,6 @@ For You,
 • [Brief point on your primary mode]
 • [Brief point stating the ideal approach]
 
-Can you also give several bullets on how their friends Human Design chart is being affected by todays transits as well? Here is their friends chart:
-"{{15.text}}"
-
-Can you also give several bullets on How This persons chart and their friends charts will interact today? List anything good or potentially bad and how they can improve their friendship.
-
 LOCATION & TIMEZONE:
-Orlando, Florida, USA (Eastern Time Zone)
+Melbourne, Florida, USA (Eastern Time Zone)
 Current date: {{now}}
