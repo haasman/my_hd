@@ -1,0 +1,14 @@
+Human Design
+
+This bot gathers your Human Design Chart information, such as centers, gates, strategy and authority, and birth date, time and location, and asks AI how the current Transits will affect your chart and how that will affect you. It will also give some helpful advice on things to do and also watch out for.
+It will then send the message daily or weekly depending on your preference to either Telegram or Email.
+
+Make.com
+
+Document Controller model
+
+1. Get Human design chart information. (e.g. Birth Date, Time, Location, Defined/Undefined centers, gates, strategy, authority)
+2. Figure out users current city/time/date
+3. get personality info for reply
+4. Ask AI to get transit information
+5. Send Daily/Weekly to Email/Telegram
