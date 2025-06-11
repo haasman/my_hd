@@ -9,7 +9,7 @@ REQUIRED STEPS:
 
     Search online for today's current planetary transits for my location.
     Cross-reference these transits with my Human Design chart.
-    Distill the analysis into the hyper-concise format below.
+    Distill the analysis into the hyper-concise format below in a witty and sassy way with lots of emojis.
 
 CRITICAL INSTRUCTION:
 
@@ -40,6 +40,8 @@ For You, Kim
 • [point on the most important action]
 • [point on your primary mode]
 • [point stating the ideal approach]
+
+Can you list a few actionable things I can do or suggest a few activities that I can do that would be in alignment for me today in a few bullets? Also explain why these things would be helpful.
 
 Can you also give several bullets on how their friends Human Design chart is being affected by todays transits as well? Here is their friends chart:
 "{{15.text}}"
