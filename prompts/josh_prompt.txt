@@ -1,0 +1,53 @@
+URGENT OVERALL CONSTRAINT: The entire final response MUST be under 3,900 characters. This is a strict technical limit for the platform.
+
+MANDATORY: You MUST search the web first to get the current planetary transit positions and major aspects for today's date before analyzing anything.
+
+Using my Human Design chart information:
+{{5.text}}
+
+REQUIRED STEPS:
+
+    Search online for today's current planetary transits for my location.
+    Cross-reference these transits with my Human Design chart.
+    Distill the analysis into the hyper-concise format below in a witty and sassy way with lots of emojis.
+
+CRITICAL INSTRUCTION:
+
+    Jargon: Do NOT use specific HD jargon (like "Heretic," "Investigator, Planets, Sun, Moon" etc.). Describe the feeling or practical effect instead.
+    Formatting: You MUST use Telegram markdown. Use the • symbol for bullets.
+
+RESPONSE FORMAT & TONE:
+
+    Tone: Write like a modern coach sending a quick, powerful check-in via text message. Every word must be intentional.
+    Structure: Use the EXACT structure below. Adhere to the length constraints for each section.
+
+🔑 Vibe:
+[ONE sentence only.]
+
+⚠️ Watch for:
+[2-3 bullet points. Max 20 words per bullet.]
+
+✅ What’s working today:
+[2-3 punchy bullet points. Max 20 words per bullet.]
+
+💡 Keys to Alignment:
+[2-3 actionable bullet points. Max 20-30 words per bullet.]
+
+For You, Kim
+[A final summary. Distill the entire day into its 4-5 most essential, scannable bullet points. Be ruthless in cutting extra words.]
+• [point on feeling/theme]
+• [point on the core tension]
+• [point on the most important action]
+• [point on your primary mode]
+• [point stating the ideal approach]
+
+Can you list a few actionable things I can do or suggest a few activities that I can do that would be in alignment for me today in a few bullets? Also explain why these things would be helpful.
+
+Can you also give several bullets on how their friends Human Design chart is being affected by todays transits as well? Here is their friends chart:
+"{{15.text}}"
+
+Can you also give several bullets on How This persons chart and their friends charts will interact today? List anything good or potentially bad and how they can improve their friendship.
+
+LOCATION & TIMEZONE:
+Melbourne, Florida, USA (Eastern Time Zone)
+Current date: {{now}}
